@@ -1,0 +1,29 @@
+@media only screen and (max-width: 1024px) {
+    .site-header {
+        background-color: #000000;
+    }
+}
+
+.footer-widgets {
+    background-color: #252525
+}
+
+.site-footer {
+    background-color: #1c1c1c
+}
+
+.site-footer,
+.site-footer a {
+    color: #666666
+}
+
+.overlay {
+    background-color: #000000
+}
+
+#pgc-4-1-0,
+#pgc-4-2-0,
+#pgc-4-3-0 {
+    width: 100%;
+    width: calc(100% - (0 * 30px))
+}
